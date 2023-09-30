@@ -1,2 +1,2 @@
-# Khan
+# KingKhan
 Introduction to Github
